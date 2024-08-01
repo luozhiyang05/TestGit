@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2267871631
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 921c376ca4a00f2cd6167486a989882b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABRes/PC/Json/ItemData.txt
+Dependencies: []

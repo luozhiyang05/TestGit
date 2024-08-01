@@ -1,0 +1,2 @@
+BasePanel:subClass("TestPanel")
+

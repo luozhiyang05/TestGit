@@ -1,0 +1,7 @@
+[
+{"id":1,"name":"战锤","icon":"Icon_1","type":1,"tips":"这是战锤"},
+{"id":2,"name":"盔甲","icon":"Icon_2","type":1,"tips":"这是盔甲"},
+{"id":3,"name":"斧头","icon":"Icon_3","type":1,"tips":"这是斧头"},
+{"id":4,"name":"骷髅头道具","icon":"Icon_4","type":2,"tips":"这是骷髅头"},
+{"id":5,"name":"红宝石","icon":"Icon_5","type":3,"tips":"这是红宝石"}
+]
